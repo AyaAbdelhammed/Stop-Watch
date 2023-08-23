@@ -1,0 +1,9 @@
+"./DIO.obj"
+"./Delay.obj"
+"./KeyPad.obj"
+"./LCD.obj"
+"./SysTick.obj"
+"./main.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
